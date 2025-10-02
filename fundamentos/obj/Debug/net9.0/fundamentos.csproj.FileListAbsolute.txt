@@ -1,0 +1,15 @@
+C:\Work Space Deborus\C-START\fundamentos\bin\Debug\net9.0\fundamentos.exe
+C:\Work Space Deborus\C-START\fundamentos\bin\Debug\net9.0\fundamentos.deps.json
+C:\Work Space Deborus\C-START\fundamentos\bin\Debug\net9.0\fundamentos.runtimeconfig.json
+C:\Work Space Deborus\C-START\fundamentos\bin\Debug\net9.0\fundamentos.dll
+C:\Work Space Deborus\C-START\fundamentos\bin\Debug\net9.0\fundamentos.pdb
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.AssemblyInfoInputs.cache
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.AssemblyInfo.cs
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.sourcelink.json
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.dll
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\refint\fundamentos.dll
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.pdb
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\fundamentos.genruntimeconfig.cache
+C:\Work Space Deborus\C-START\fundamentos\obj\Debug\net9.0\ref\fundamentos.dll
