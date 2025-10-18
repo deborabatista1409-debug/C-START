@@ -1,0 +1,15 @@
+C:\Work Space Deborus\C-START\EstruturaDeControle\bin\Debug\net9.0\EstruturaDeControle.exe
+C:\Work Space Deborus\C-START\EstruturaDeControle\bin\Debug\net9.0\EstruturaDeControle.deps.json
+C:\Work Space Deborus\C-START\EstruturaDeControle\bin\Debug\net9.0\EstruturaDeControle.runtimeconfig.json
+C:\Work Space Deborus\C-START\EstruturaDeControle\bin\Debug\net9.0\EstruturaDeControle.dll
+C:\Work Space Deborus\C-START\EstruturaDeControle\bin\Debug\net9.0\EstruturaDeControle.pdb
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.AssemblyInfoInputs.cache
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.AssemblyInfo.cs
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.csproj.CoreCompileInputs.cache
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.sourcelink.json
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.dll
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\refint\EstruturaDeControle.dll
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.pdb
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\EstruturaDeControle.genruntimeconfig.cache
+C:\Work Space Deborus\C-START\EstruturaDeControle\obj\Debug\net9.0\ref\EstruturaDeControle.dll
